@@ -1,0 +1,2 @@
+// Empty polyfill stub
+export {};
